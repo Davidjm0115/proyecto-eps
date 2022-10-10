@@ -1,0 +1,77 @@
+body{
+
+      margin-left: 10px;
+
+}
+header{
+
+    padding: 25px;
+    background-color: #CAD8D8;
+    text-align: center;
+
+}
+#qatar{
+  max-width: 10%;
+  max-height: 10%;
+
+}
+#logo{
+    background-color: #CAD8D8;
+    text-align: center;
+    margin-top: 10px;
+}
+nav{
+
+    display: flex;
+    flex-direction: rom;
+    background-color: #333;
+}
+
+nav a{
+    color: white;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+aside{
+    flex:30px;
+    background-color: white;
+    padding: 20px;
+
+}
+
+section{
+  font-family: arial;
+  flex:70%;
+  background-color: white;
+  page-break-after: 20px;
+}
+
+section div{
+
+  background-color: white;
+}
+footer{
+    color: white;
+    padding: 20px;
+    text-align: center;
+    background-color: black;
+}
+
+aside img {
+
+  max-width: 100%;
+  max-height: 80%;
+
+}
+section div{
+
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
